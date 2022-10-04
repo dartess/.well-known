@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bitsgap.app.twa",
+      "sha256_cert_fingerprints": [
+        "62:BF:09:34:DB:A8:E7:96:FC:1E:57:A4:7B:43:96:74:B2:1A:C5:38:0D:51:64:CC:18:76:0C:A5:F7:2A:1E:E7"
+      ]
+    }
+  }
+]
